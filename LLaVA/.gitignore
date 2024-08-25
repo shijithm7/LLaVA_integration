@@ -26,4 +26,4 @@ checkpoints
 ckpts*
 
 .ipynb_checkpoints
-*.ipynb
+llava-v1.5-13b-3GB/
