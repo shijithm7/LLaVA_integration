@@ -6,6 +6,15 @@ This README provides detailed instructions for setting up and configuring the en
 ## System Requirements
 - **RAM:** 32 GB or higher
 
+###  Clone the Repository
+Before setting up the environment, clone the LLaVA repository to your local machine. Use the following command in your terminal:
+
+```bash
+git clone https://github.com/shijithm7/LLaVA_integration.git
+cd LLaVA_integration
+```
+
+
 ## Installation Steps
 
 ### Step 1: Create and Activate Conda Environment
@@ -58,7 +67,9 @@ Once the installation is complete, you can start developing and testing with the
 
 ```bash
 conda activate LLaVA_env
+cd LLaVA
 ```
+Run the notebook  [LLaVA_13b_4bit_vanilla_inference_code.ipynb](https://github.com/shijithm7/LLaVA_integration/blob/main/LLaVA/LLaVA_13b_4bit_vanilla_inference_code.ipynb)    with kernal ``` LLaVA_env ```
 
 ## Troubleshooting
 If you encounter any issues during the installation, make sure to check the compatibility of the installed packages with your system specifications. Revisit the installation commands to ensure they were entered correctly.
