@@ -75,6 +75,10 @@ Run the notebook  [LLaVA_13b_4bit_vanilla_inference_code.ipynb](https://github.c
 [LLaVA_13b_4bit_vanilla_google_colab_code.ipynb](https://github.com/shijithm7/LLaVA_integration/blob/main/LLaVA/LLaVA_13b_4bit_vanilla_google_colab_code.ipynb) This notebook demonstrates how to quickly set up and test the LLaVA model with 4-bit quantization in Google Colab. This setup is optimized for rapid testing and inference vision models, leveraging Colab's GPUs.
 
 
+
+For model Training and Evaluation [Refere Here](https://github.com/shijithm7/LLaVA_integration/blob/main/LLaVA/README.md)
+
+
 ## Troubleshooting
 If you encounter any issues during the installation, make sure to check the compatibility of the installed packages with your system specifications. Revisit the installation commands to ensure they were entered correctly.
 
